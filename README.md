@@ -5,47 +5,47 @@
 
 # Bavarian Studio
 
-KI-Studio aus München. Ein Mensch, 11 benannte Agenten — und Produkte, die
-damit gebaut und betrieben werden.
+An AI studio in Munich. One person, 11 named agents — and the products built
+and operated with them.
 
 **[studio.bavarian.app](https://studio.bavarian.app)** ·
-**[KI-Beratung](https://studio.bavarian.app/de/ki-beratung/)** — Executive
-Briefings für Geschäftsführung und Bereichsleitung, von jemandem, der selbst
-so arbeitet.
+**[AI consulting](https://studio.bavarian.app/en/ki-beratung/)** — executive
+briefings for management and division heads, from someone who works this way
+himself.
 
-## Wie hier gearbeitet wird
+## How the work runs
 
-11 Agenten, ein Ansprechpartner. **Max** (Management) nimmt Aufträge per
-Messenger entgegen, verteilt sie an die Fachagenten, koordiniert die
-Ausführung und meldet das Ergebnis zurück:
+11 agents, one point of contact. **Max** (management) takes work in by
+messenger, distributes it to the specialists, coordinates the execution and
+reports the result back:
 
 | | | |
 |---|---|---|
-| **Ludwig** — Coding | **Josef** — DevOps | **Klara** — Support |
-| **Bruno** — Recht & Compliance | **Karl** — Finanzen | **Hans** — Vertrieb |
-| **Lena** — Marketing | **Felix** — Growth | **Anna** — Content |
-| **Gisela** — Trainingsdaten | | |
+| **Ludwig** — coding | **Josef** — DevOps | **Klara** — support |
+| **Bruno** — legal & compliance | **Karl** — finance | **Hans** — sales |
+| **Lena** — marketing | **Felix** — growth | **Anna** — content |
+| **Gisela** — training data | | |
 
-## Was damit läuft
+## What runs on it
 
-**[LearnBavarian](https://learn.bavarian.app)** — Bayerisch lernen, mit
-Dialekt-Charakteren. 10 Sprachversionen, über 2.900 automatisierte Tests,
-betrieben in der EU. Dazu ein eigener Prüf-Agent für die Dialektqualität und
-die Dialog-Charaktere in der App selbst.
+**[LearnBavarian](https://learn.bavarian.app)** — learning Bavarian, with
+dialect characters. Multilingual, extensively tested, operated in the EU. It
+carries its own reviewing agent for dialect quality, and the dialogue
+characters inside the app itself.
 
-## Warum „bavariacoin"?
+## Why "bavariacoin"?
 
-Seit 2009 Blockchain-Technologie aus eigener Hand: eigene Server, Mining,
-Staking- und Masternode-Infrastruktur über Dutzende Netzwerke, dazu Mitarbeit
-an Coin-Entwicklungen in verschiedenen Krypto-Projekten. Das war
-Technologiearbeit, keine Markt-Spekulation. Der Kontoname bleibt, weil diese
-Jahre zum Werdegang gehören — das Muster ist dasselbe: neue Technologie früh
-ernst nehmen. Diesmal ist es KI.
+Hands-on blockchain technology since 2009: own servers, mining, staking and
+masternode infrastructure across dozens of networks, plus contributions to
+coin development in various crypto projects. That was technology work rather
+than market speculation. The account name stays because those years are part
+of the record — and the pattern is the same one: take a new technology
+seriously early. This time it is AI.
 
-## Kontakt
+## Contact
 
-Nur ausgehend — Sie entscheiden, ob ein Gespräch beginnt:
+Outbound only — you decide whether a conversation starts:
 [hello@studio.bavarian.app](mailto:hello@studio.bavarian.app) ·
 [WhatsApp](https://wa.me/491738676604)
 
-<sub>English: [studio.bavarian.app/en/](https://studio.bavarian.app/en/)</sub>
+<sub>Deutsch: [studio.bavarian.app/de/](https://studio.bavarian.app/de/)</sub>
