@@ -29,9 +29,9 @@ reports the result back:
 ## What runs on it
 
 **[LearnBavarian](https://learn.bavarian.app)** — learning Bavarian, with
-dialect characters. Multilingual, extensively tested, operated in the EU. It
-carries its own reviewing agent for dialect quality, and the dialogue
-characters inside the app itself.
+dialect characters. 10 language versions, more than 2,900 automated tests,
+operated in the EU. It carries its own reviewing agent for dialect quality,
+and the dialogue characters inside the app itself.
 
 ## Why "bavariacoin"?
 
