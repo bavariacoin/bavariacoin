@@ -5,47 +5,52 @@
 
 # Bavarian Studio
 
-An AI studio in Munich. One person, 11 named agents — and the products built
-and operated with them.
+**[studio.bavarian.app](https://studio.bavarian.app)**
 
-**[studio.bavarian.app](https://studio.bavarian.app)** ·
-**[AI consulting](https://studio.bavarian.app/en/ki-beratung/)** — executive
-briefings for management and division heads, from someone who works this way
-himself.
+## Deutsch
 
-## How the work runs
+KI-Studio in München: Produkte, Beratung
 
-11 agents, one point of contact. **Max** (management) takes work in by
-messenger, distributes it to the specialists, coordinates the execution and
-reports the result back:
+**[KI-Beratung](https://studio.bavarian.app/de/ki-beratung/)**
 
-| | | |
-|---|---|---|
-| **Ludwig** — coding | **Josef** — DevOps | **Klara** — support |
-| **Bruno** — legal & compliance | **Karl** — finance | **Hans** — sales |
-| **Lena** — marketing | **Felix** — growth | **Anna** — content |
-| **Gisela** — training data | | |
+Wie aus einem Vorhaben ein System wird, das trägt: die Entscheidungen, an denen es hängt, und die Reihenfolge, in der sie fallen. Executive Briefings für Geschäftsführung und Bereichsleitung, in kleiner Runde. Grundlage ist kein Foliensatz, sondern ein Studio, in dem KI-Agenten die Geschäftsbereiche tragen und die Freigaben in menschlicher Verantwortung bleiben — mit Produkten, die in Produktion laufen.
 
-## What runs on it
+### Projekte
 
-**[LearnBavarian](https://learn.bavarian.app)** — learning Bavarian, with
-dialect characters. 10 language versions, more than 2,900 automated tests,
-operated in the EU. It carries its own reviewing agent for dialect quality,
-and the dialogue characters inside the app itself.
+- **[Infocluster](https://studio.bavarian.app/de/projekte/infocluster/)** — Die Wissensschicht, aus der KI-Agenten arbeiten.
+- **[JANUS](https://studio.bavarian.app/de/projekte/janus/)** — Herauszufinden, wo die großen Market Maker gerade stehen und was sie als Nächstes tun — und ob darin etwas steckt, auf das sich handeln ließe.
+- **[Pattern Dashboard](https://studio.bavarian.app/de/projekte/pattern-dashboard/)** — Muster in Märkten sichtbar zu machen: wann sich etwas regelmäßig wiederholt, derzeit an Bitcoin und Gold — und in welchen Zeitfenstern tatsächlich gehandelt wird.
+- **[Trading Dashboard](https://studio.bavarian.app/de/projekte/trading-dashboard/)** — Ein Entscheidungsinstrument fürs Day Trading, kein Analysetext: eine Oberfläche, auf der die Lage über Krypto-Werte, Aktien-Futures und das makroökonomische Umfeld zusammenläuft und die auf Bewegungen hinweist, während sie passieren.
+- **[TradingSignals](https://studio.bavarian.app/de/projekte/tradingsignals/)** — Valide Handelssignale zu erzeugen: Hinweise, auf die man sich stützen kann, weil sie geprüft wurden, bevor man ihnen geglaubt hat.
+- **[translate.bavarian.app](https://studio.bavarian.app/de/projekte/translate/)** — Ein Übersetzer zwischen Deutsch, Englisch und Bayerisch, in beide Richtungen.
 
-## Why "bavariacoin"?
+### Kontakt
 
-Hands-on blockchain technology since 2009: own servers, mining, staking and
-masternode infrastructure across dozens of networks, plus contributions to
-coin development in various crypto projects. That was technology work rather
-than market speculation. The account name stays because those years are part
-of the record — and the pattern is the same one: take a new technology
-seriously early. This time it is AI.
+Beratung und Workshops richten sich an Geschäftsführung und Entscheidungsebene, die KI-Einführung als strategische Weichenstellung verstehen wollen — nicht als Mitarbeiterschulung. Kernstück ist der eigene Betrieb dieses Studios als Anschauungsobjekt, nicht eine Foliensammlung. Was ein solches Briefing enthält und wie es abläuft, steht auf [KI-Beratung](https://studio.bavarian.app/de/ki-beratung/).
 
-## Contact
-
-Outbound only — you decide whether a conversation starts:
-[hello@studio.bavarian.app](mailto:hello@studio.bavarian.app) ·
+[E-Mail](mailto:hello@studio.bavarian.app) ·
 [WhatsApp](https://wa.me/491738676604)
 
-<sub>Deutsch: [studio.bavarian.app/de/](https://studio.bavarian.app/de/)</sub>
+## English
+
+AI studio in Munich: products, consulting
+
+**[AI consulting](https://studio.bavarian.app/en/ki-beratung/)**
+
+Executive briefings for managing directors and division heads, in a small group. The basis is not a slide deck but a studio in which AI agents carry the business functions and approvals remain a human responsibility — with products running in production.
+
+### Projects
+
+- **[Infocluster](https://studio.bavarian.app/en/projekte/infocluster/)** — The knowledge layer AI agents work out of.
+- **[JANUS](https://studio.bavarian.app/en/projekte/janus/)** — To find out where the large market makers currently stand and what they are about to do — and whether anything in that could be acted on.
+- **[Pattern Dashboard](https://studio.bavarian.app/en/projekte/pattern-dashboard/)** — To make patterns in markets visible: when something recurs regularly, currently on Bitcoin and gold — and in which timeframes trading actually happens.
+- **[Trading Dashboard](https://studio.bavarian.app/en/projekte/trading-dashboard/)** — A decision instrument for day trading, not a piece of analysis writing: a surface where the picture across crypto assets, equity futures and the macroeconomic setting comes together, and which points out movements while they happen.
+- **[TradingSignals](https://studio.bavarian.app/en/projekte/tradingsignals/)** — To generate valid trade signals: indications you can lean on because they were examined before they were believed.
+- **[translate.bavarian.app](https://studio.bavarian.app/en/projekte/translate/)** — A translator between German, English and Bavarian, in both directions.
+
+### Contact
+
+Consulting and workshops are aimed at managing directors and decision-level leadership who want to treat AI adoption as a strategic decision rather than as staff training. The centrepiece is this studio's own operation as the working example, not a slide deck. What such a briefing covers and how it runs is set out on [AI consulting](https://studio.bavarian.app/en/ki-beratung/).
+
+[hello@studio.bavarian.app](mailto:hello@studio.bavarian.app) ·
+[WhatsApp](https://wa.me/491738676604)
