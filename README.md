@@ -13,7 +13,7 @@ KI-Studio in München: Produkte, Beratung
 
 **[KI-Beratung](https://studio.bavarian.app/de/ki-beratung/)**
 
-Wie aus einem Vorhaben ein System wird, das trägt: die Entscheidungen, an denen es hängt, und die Reihenfolge, in der sie fallen. Executive Briefings für Geschäftsführung und Bereichsleitung, in kleiner Runde. Grundlage ist kein Foliensatz, sondern ein Studio, in dem KI-Agenten die Geschäftsbereiche tragen und ein Mensch die Freigaben behält — mit Produkten, die in Produktion laufen.
+Wie aus einem Vorhaben ein System wird, das trägt: die Entscheidungen, an denen es hängt, und die Reihenfolge, in der sie fallen. Executive Briefings für Geschäftsführung und Bereichsleitung, in kleiner Runde. Grundlage ist kein Foliensatz, sondern ein Studio, in dem KI-Agenten die Geschäftsbereiche tragen und die Freigaben in menschlicher Verantwortung bleiben — mit Produkten, die in Produktion laufen.
 
 ### Projekte
 
