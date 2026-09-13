@@ -37,7 +37,7 @@ AI studio in Munich: products, consulting
 
 **[AI consulting](https://studio.bavarian.app/en/ki-beratung/)**
 
-Executive briefings for managing directors and division heads, in a small group. The basis is not a slide deck but a studio in which AI agents carry the business functions and a human keeps the approvals — with products running in production.
+Executive briefings for managing directors and division heads, in a small group. The basis is not a slide deck but a studio in which AI agents carry the business functions and approvals remain a human responsibility — with products running in production.
 
 ### Projects
 
