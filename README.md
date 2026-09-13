@@ -35,9 +35,9 @@ Beratung und Workshops richten sich an Geschäftsführung und Entscheidungsebene
 
 AI studio in Munich: products, consulting
 
-**[AI consulting](https://studio.bavarian.app/en/ki-beratung/)** — executive
-briefings for management and division heads, from someone who works this way
-himself.
+**[AI consulting](https://studio.bavarian.app/en/ki-beratung/)**
+
+Executive briefings for managing directors and division heads, in a small group. The basis is not a slide deck but a studio in which AI agents carry the business functions and a human keeps the approvals — with products running in production.
 
 ### Projects
 
@@ -50,6 +50,7 @@ himself.
 
 ### Contact
 
-Outbound only — you decide whether a conversation starts:
+Consulting and workshops are aimed at managing directors and decision-level leadership who want to treat AI adoption as a strategic decision rather than as staff training. The centrepiece is this studio's own operation as the working example, not a slide deck. What such a briefing covers and how it runs is set out on [AI consulting](https://studio.bavarian.app/en/ki-beratung/).
+
 [hello@studio.bavarian.app](mailto:hello@studio.bavarian.app) ·
 [WhatsApp](https://wa.me/491738676604)
