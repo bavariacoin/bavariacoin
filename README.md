@@ -5,42 +5,21 @@
 
 # Bavarian Studio
 
-An AI studio in Munich. One person, 11 named agents — and the products built
-and operated with them.
+KI-Studio in München: Produkte, Beratung
 
 **[studio.bavarian.app](https://studio.bavarian.app)** ·
 **[AI consulting](https://studio.bavarian.app/en/ki-beratung/)** — executive
 briefings for management and division heads, from someone who works this way
 himself.
 
-## How the work runs
+## Projekte
 
-11 agents, one point of contact. **Max** (management) takes work in by
-messenger, distributes it to the specialists, coordinates the execution and
-reports the result back:
-
-| | | |
-|---|---|---|
-| **Ludwig** — coding | **Josef** — DevOps | **Klara** — support |
-| **Bruno** — legal & compliance | **Karl** — finance | **Hans** — sales |
-| **Lena** — marketing | **Felix** — growth | **Anna** — content |
-| **Gisela** — training data | | |
-
-## What runs on it
-
-**[LearnBavarian](https://learn.bavarian.app)** — learning Bavarian, with
-dialect characters. 10 language versions, more than 2,900 automated tests,
-operated in the EU. It carries its own reviewing agent for dialect quality,
-and the dialogue characters inside the app itself.
-
-## Why "bavariacoin"?
-
-Hands-on blockchain technology since 2009: own servers, mining, staking and
-masternode infrastructure across dozens of networks, plus contributions to
-coin development in various crypto projects. That was technology work rather
-than market speculation. The account name stays because those years are part
-of the record — and the pattern is the same one: take a new technology
-seriously early. This time it is AI.
+- **[Infocluster](https://studio.bavarian.app/de/projekte/infocluster/)** — Die Wissensschicht, aus der KI-Agenten arbeiten.
+- **[JANUS](https://studio.bavarian.app/de/projekte/janus/)** — Herauszufinden, wo die großen Market Maker gerade stehen und was sie als Nächstes tun — und ob darin etwas steckt, auf das sich handeln ließe.
+- **[Pattern Dashboard](https://studio.bavarian.app/de/projekte/pattern-dashboard/)** — Muster in Märkten sichtbar zu machen: wann sich etwas regelmäßig wiederholt, derzeit an Bitcoin und Gold — und in welchen Zeitfenstern tatsächlich gehandelt wird.
+- **[Trading Dashboard](https://studio.bavarian.app/de/projekte/trading-dashboard/)** — Ein Entscheidungsinstrument fürs Day Trading, kein Analysetext: eine Oberfläche, auf der die Lage über Krypto-Werte, Aktien-Futures und das makroökonomische Umfeld zusammenläuft und die auf Bewegungen hinweist, während sie passieren.
+- **[TradingSignals](https://studio.bavarian.app/de/projekte/tradingsignals/)** — Valide Handelssignale zu erzeugen: Hinweise, auf die man sich stützen kann, weil sie geprüft wurden, bevor man ihnen geglaubt hat.
+- **[translate.bavarian.app](https://studio.bavarian.app/de/projekte/translate/)** — Ein Übersetzer zwischen Deutsch, Englisch und Bayerisch, in beide Richtungen.
 
 ## Contact
 
